@@ -9,9 +9,9 @@
 class ConnectDB
 {
     //private static $dns="mysql:host=localhost;dbname=mentorhub";//
-    private static $dns="mysql:host=mysql5005.mywindowshosting.com;dbname=db_a13670_mhub";
-    private static $username="a13670_mhub";
-    private static $password='mentorhub@2017';
+    private static $dns="mysql:host=;dbname=";
+    private static $username="";
+    private static $password='';
     private static $connection;
 
     public static function dbConnect(){
