@@ -1,0 +1,106 @@
+#event_title,
+#exchange_title {
+    color: #fff;
+    height: 60px;
+    background-color: #0097a9;
+    margin-bottom:15px;
+}
+#event_title h2,
+#exchange_title h2 {
+    padding-left: 15px;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.event_title,
+.exchange_title {
+    font-size: 0.75em;
+}
+#event_field,
+#exchange_field {
+    margin-bottom:20px;
+}
+
+#addPost_btn {
+    margin-bottom: 15px;
+    text-align: right;
+}
+#addPost_btn a{
+    color: #fff;
+    background-color: #ed5574;
+    border: none;
+    font-size: 2em;
+    padding: 10px;
+    font-weight: bold;
+}
+#addPost_btn a:hover {
+    background-color: #5f308e;
+    color: #fff;
+}
+#addPost_btn a:visited {
+    color: #fff;
+}
+
+.post-table {
+
+}
+.post-thead {
+    color: #fff;
+    background-color: #333;
+}
+
+.label-pink{
+    background-color: #ed5574;
+}
+.label-green{
+    background-color: #0097a9;
+}
+
+.viewPost_btn, .viewPost_btn:visited {
+    color: #fff;
+    background-color: #5f308e;
+    border: none;
+    font-weight: bold;
+}
+.viewPost_btn:hover {
+    background-color: #cedb27;
+}
+
+
+#exchange_field {
+    /*background-color:#efefef;*/
+    padding: 15px;
+}
+#exchange_field h3{
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#exchange_field h5{
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.exchange_image {
+    text-align: center;
+}
+.exchange_description {
+    word-break:break-all;
+    padding:0;
+    padding-bottom: 10px;
+}
+.exchange_buttons {
+
+}
+.exchange_buttons a{
+    margin-right: 10px;
+    display: inline-block;
+}
+.exchange_buttons form{
+    margin-right: 10px;
+    display: inline-block;
+}
+
+
+.exchange_memberInfo {
+}

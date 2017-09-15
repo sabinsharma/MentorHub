@@ -1,0 +1,29 @@
+.topiclink>a{
+    font-size: 0.7rem;
+    color: #2e6da4;
+    text-decoration: none;
+}
+#myTopics{
+    display: block;
+    width:100%;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+}
+
+/*
+Source:https://jsfiddle.net/KyleMit/0fscmf3L/
+Author:Kyle Mitofsky
+Date:Not Avaialable
+Viewed on:2017-03-21
+*/
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}

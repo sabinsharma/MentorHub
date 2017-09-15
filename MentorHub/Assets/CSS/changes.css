@@ -1,0 +1,17 @@
+.request-dropdown{
+    width:21em;
+}
+
+.request-dropdown li{
+    display: inline;
+    float: left;
+}
+
+.request-button{
+    display: inline;
+    float: right;
+}
+
+#statusChanged{
+    text-align: right;
+}
